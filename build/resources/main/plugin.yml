@@ -1,0 +1,14 @@
+name: HapyDrops
+version: '1.0'
+main: me.swenly.hapydrops.HapyDrops
+api-version: 1.16
+authors: [ Swenly ]
+description: AirDrops plugin
+commands:
+  drops:
+    permission:
+      hapydrops.*
+    aliases:
+      - hapydrops
+      - hdrops
+      - airdrops
